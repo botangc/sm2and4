@@ -1,5 +1,0 @@
-<resources>
-    <string name="app_name">ButterKnife</string>
-
-    <string name="string_fragment">this is a fragment string</string>
-</resources>
