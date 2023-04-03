@@ -1,3 +1,0 @@
-include ':app'
-include ':faceplat_ui'
-include ':faceplat'
